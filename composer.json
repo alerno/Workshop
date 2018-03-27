@@ -44,7 +44,7 @@
     }
   },
   "config": {
-    "vendor-dir": "/../../vendor"
+    "vendor-dir": "../../vendor"
   },
   "minimum-stability": "dev",
   "prefer-stable": true
