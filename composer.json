@@ -43,6 +43,9 @@
       "Modules\\": "Modules/"
     }
   },
+  "config": {
+    "vendor-dir": "/../../vendor"
+  },
   "minimum-stability": "dev",
   "prefer-stable": true
 }
